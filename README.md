@@ -70,4 +70,13 @@ The dashboard answers **4 critical business questions** that Moroccan retailers 
 ---
 
 ## 📁 Data Model
+
 <img width="1065" height="687" alt="star schema" src="https://github.com/user-attachments/assets/081f0117-ba29-47cc-9baa-923960640846" />
+
+---
+
+## Author
+Khadija Chaabaoui
+Data Analyst Junior | Power BI
+LinkedIn: www.linkedin.com/in/khadija-chaabaoui-71743a375
+Email: chaabaoui123456@gmail.com
