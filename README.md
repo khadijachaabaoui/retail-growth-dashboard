@@ -62,10 +62,12 @@ The dashboard answers **4 critical business questions** that Moroccan retailers 
 
 ## 🛠️ Tools & Technologies
 
-**Power BI Desktop** Dashboard development
-**DAX** Calculated measures and columns
-**Power Query** Data cleaning and transformation
-**Star Schema** Data modeling (Fact + Dimension tables)
+| Tool | Purpose |
+|------|---------|
+| **Power BI Desktop** | Dashboard development |
+| **DAX** | Calculated measures and columns |
+| **Power Query** | Data cleaning and transformation |
+| **Star Schema** | Data modeling (Fact + Dimension tables) |
 
 ---
 
@@ -76,7 +78,7 @@ The dashboard answers **4 critical business questions** that Moroccan retailers 
 ---
 
 ## Author
-Khadija Chaabaoui
-Data Analyst Junior | Power BI
-LinkedIn: www.linkedin.com/in/khadija-chaabaoui-71743a375
-Email: chaabaoui123456@gmail.com
+-Khadija Chaabaoui
+-Data Analyst Junior | Power BI
+-LinkedIn: www.linkedin.com/in/khadija-chaabaoui-71743a375
+-Email: chaabaoui123456@gmail.com
