@@ -78,7 +78,10 @@ The dashboard answers **4 critical business questions** that Moroccan retailers 
 ---
 
 ## Author
--Khadija Chaabaoui
--Data Analyst Junior | Power BI
--LinkedIn: www.linkedin.com/in/khadija-chaabaoui-71743a375
--Email: chaabaoui123456@gmail.com
+Khadija Chaabaoui
+
+Data Analyst Junior | Power BI
+
+LinkedIn: www.linkedin.com/in/khadija-chaabaoui-71743a375
+
+Email: chaabaoui123456@gmail.com
